@@ -48,9 +48,10 @@ The codebase is organized to facilitate the conversion of resumes to analyzable 
    - Displays the generated response.
 
 ## 📸 Screenshots
-   ![Screenshot (344)](https://github.com/user-attachments/assets/63ba0cb5-5d3c-4dc0-847c-2fce99cdb131)
+  Upload the Resume and Job Description of the job.
+  ![Screenshot (344)](https://github.com/user-attachments/assets/63ba0cb5-5d3c-4dc0-847c-2fce99cdb131)
 
-   ![Screenshot (345)](https://github.com/user-attachments/assets/365dbebb-ae29-4764-971c-857a91ce1a3b)
+  ![Screenshot (345)](https://github.com/user-attachments/assets/365dbebb-ae29-4764-971c-857a91ce1a3b)
 
 ## 🎯 Conclusion
 The ATS Tracking System is a powerful tool that leverages generative AI to analyze resumes and evaluate their alignment with job descriptions. By utilizing the Gemini-1.5-Flash model, the system generates content based on the provided inputs, allowing HR professionals and recruiters to make informed decisions. With the ability to convert PDF resumes to images and calculate the percentage match, this system streamlines the resume review process and enhances the efficiency of talent acquisition.
